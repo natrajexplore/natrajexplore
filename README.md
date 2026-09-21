@@ -60,7 +60,7 @@ location:  Coimbatore, India
 focus:     NAC · Wireless · RF · AI Automation
 languages: Python · TypeScript
 building:  RF Root Cause SLM (QLoRA)
-repos:     36 public
+repos:     39 public
 ```
 
 </td>
