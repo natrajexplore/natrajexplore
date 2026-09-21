@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nataraj-angappan-3a8614138)
 [![GitHub Followers](https://img.shields.io/github/followers/natrajexplore?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/natrajexplore?tab=followers)
-[![Repos](https://img.shields.io/badge/Public%20Repos-36-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natrajexplore?tab=repositories)
+[![Repos](https://img.shields.io/badge/Public%20Repos-39-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natrajexplore?tab=repositories)
 
 </div>
 
