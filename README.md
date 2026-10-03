@@ -59,7 +59,8 @@ company:   Cognizant
 location:  Coimbatore, India
 focus:     NAC · Wireless · RF · AI Automation
 languages: Python · TypeScript
-building:  RF Root Cause SLM (QLoRA), ISE Chatbot, Agentic-AI, BGP Automation.
+building:  RF Root Cause SLM (QLoRA)
+           ISE Chatbot, Agentic-AI, BGP Automation.
 repos:     42 public
 ```
 
